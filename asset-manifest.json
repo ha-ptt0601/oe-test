@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ha-ptt0601.github.io/oe-test/static/css/main.f1feeacd.chunk.css",
+    "main.js": "/ha-ptt0601.github.io/oe-test/static/js/main.b8cc5023.chunk.js",
+    "main.js.map": "/ha-ptt0601.github.io/oe-test/static/js/main.b8cc5023.chunk.js.map",
+    "runtime-main.js": "/ha-ptt0601.github.io/oe-test/static/js/runtime-main.858e2587.js",
+    "runtime-main.js.map": "/ha-ptt0601.github.io/oe-test/static/js/runtime-main.858e2587.js.map",
+    "static/css/2.99a5358a.chunk.css": "/ha-ptt0601.github.io/oe-test/static/css/2.99a5358a.chunk.css",
+    "static/js/2.c02d9ab1.chunk.js": "/ha-ptt0601.github.io/oe-test/static/js/2.c02d9ab1.chunk.js",
+    "static/js/2.c02d9ab1.chunk.js.map": "/ha-ptt0601.github.io/oe-test/static/js/2.c02d9ab1.chunk.js.map",
+    "index.html": "/ha-ptt0601.github.io/oe-test/index.html",
+    "precache-manifest.8d348bbc867e43ff7ee28917aeba81af.js": "/ha-ptt0601.github.io/oe-test/precache-manifest.8d348bbc867e43ff7ee28917aeba81af.js",
+    "service-worker.js": "/ha-ptt0601.github.io/oe-test/service-worker.js",
+    "static/css/2.99a5358a.chunk.css.map": "/ha-ptt0601.github.io/oe-test/static/css/2.99a5358a.chunk.css.map",
+    "static/css/main.f1feeacd.chunk.css.map": "/ha-ptt0601.github.io/oe-test/static/css/main.f1feeacd.chunk.css.map",
+    "static/js/2.c02d9ab1.chunk.js.LICENSE.txt": "/ha-ptt0601.github.io/oe-test/static/js/2.c02d9ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.858e2587.js",
+    "static/css/2.99a5358a.chunk.css",
+    "static/js/2.c02d9ab1.chunk.js",
+    "static/css/main.f1feeacd.chunk.css",
+    "static/js/main.b8cc5023.chunk.js"
+  ]
+}
